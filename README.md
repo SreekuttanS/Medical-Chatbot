@@ -4,7 +4,7 @@ A medical chatbot built with:
 - Streamlit
 For educational puposes only
 
-##Run Locally
+## Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
